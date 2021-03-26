@@ -3,9 +3,11 @@
     height: 140px;
     width: 90px;
     margin: 10px;
+    padding:0%;
   }
 
-  .card_image {
-      height: 80px;
-      object-fit: contain;
+  .card__image {
+    padding: 7px;
+    width: inherit;
+    object-fit: contain;
   }
