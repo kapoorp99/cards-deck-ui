@@ -1,0 +1,14 @@
+.footer {
+    padding: 4px;
+    border-top: 1px solid #57555c;
+    width: 85vw;
+}
+
+.footer__content {
+    text-align: center;
+}
+
+.footer__content > p {
+    color: #3c3a41;
+    font-weight: 800;
+}
